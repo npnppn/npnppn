@@ -29,6 +29,8 @@
 </blockquote>
 
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=npnppn)](https://solved.ac/kitae0629)
+
 ### Contacts 📫
 
 * Email : nppn10@naver.com
