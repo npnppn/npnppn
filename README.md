@@ -29,7 +29,7 @@
 </blockquote>
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=npnppn)](https://solved.ac/kitae0629)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=npnppn)](https://solved.ac/npnppn)
 
 ### Contacts 📫
 
