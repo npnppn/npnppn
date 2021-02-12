@@ -1,4 +1,4 @@
-# idiot-kitto&nbsp;<img src="https://github.com/npnppn/npnppn/blob/main/aing_eyes.gif" width="40px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidiot-kitto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# idiot-kitto&nbsp;<img src="https://github.com/npnppn/npnppn/blob/main/aing_eyes.gif" width="40px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnpnppn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=npnppn's%20Github&fontSize=40)
 
