@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=HyungMin's%20Github&fontSize=40)
 
-### Today I Learned (TIL)은 Notion을 활용해 정리해두고 있습니다🥺 알고리즘은 꾸준히!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+### Today I Learned (TIL)은 Notion을 활용해 꾸준히 정리 중🥺 1일3알고리즘 실천하기!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
 <p>
   <em>
