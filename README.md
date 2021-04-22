@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=HyungMin's%20Github&fontSize=40)
 
-### &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> Today I Learned (TIL)은 Notion을 활용해 꾸준히 정리 중 &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+### &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> Today I Learned (TIL)은 <a href="https://www.acmicpc.net/user/npnppn" rel="nofollow">Notion</a>을 활용해 꾸준히 정리 중 &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
 <p>
   <em>
