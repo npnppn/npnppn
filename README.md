@@ -1,7 +1,7 @@
 # npnppn&nbsp;<img src="https://github.com/npnppn/npnppn/blob/main/aing_eyes.gif" width="40px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnpnppn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HyungMin's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
-![npnppn's github stats](https://github-readme-stats.vercel.app/api?username=npnppn&show_icons=true&theme=synthwave)
+![npnppn's github stats](https://github-readme-stats.vercel.app/api?username=npnppn&show_icons=true&theme=synthwave)&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnppn" width = "29%">
 
 
@@ -17,8 +17,7 @@ Framework : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <br>
-Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <br>
 Collaboration Tool : <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>&nbsp;
