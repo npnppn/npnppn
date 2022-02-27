@@ -4,7 +4,7 @@
 
 ### 📫 Github Status
 ![npnppn's github stats](https://github-readme-stats.vercel.app/api?username=npnppn&show_icons=true&theme=synthwave)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnppn" width = "27%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnppn" width = "27.5%">
 
 
 <h2>
@@ -16,7 +16,8 @@ Language : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Ja
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 <br>
 Framework : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <br>
 Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
