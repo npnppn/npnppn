@@ -2,13 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HyungMin's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
-### &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> TIL은 <a href="https://cheddar-dollar-d16.notion.site/15dc58a8f84447398c034a54157d9a1d" rel="nofollow">Notion</a>을 활용해 꾸준히 정리 중 &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+### &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> Skills &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
-<p>
-  <em>
-    
-  </em>  
-</p>
+<!-- <img src="https://img.shields.io/badge/이름-컬러?style=flat&logo=이름&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Java-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><br><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Zira-F24E1E?style=flat&logo=Figma&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 
 
 
