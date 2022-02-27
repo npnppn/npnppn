@@ -2,8 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HyungMin's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
+### 📫 Github Status
 ![npnppn's github stats](https://github-readme-stats.vercel.app/api?username=npnppn&show_icons=true&theme=synthwave)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnppn" width = "28%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnppn" width = "27%">
 
 
 <h2>
