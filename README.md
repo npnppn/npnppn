@@ -1,6 +1,6 @@
 # npnppn&nbsp;<img src="https://github.com/npnppn/npnppn/blob/main/aing_eyes.gif" width="40px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnpnppn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=HyungMin's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HyungMin's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
 ### &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> TIL은 <a href="https://cheddar-dollar-d16.notion.site/15dc58a8f84447398c034a54157d9a1d" rel="nofollow">Notion</a>을 활용해 꾸준히 정리 중 &nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
@@ -15,30 +15,16 @@
 ![npnppn's github stats](https://github-readme-stats.vercel.app/api?username=npnppn&show_icons=true&theme=synthwave)
 
 
-### Problem Solving / Online Judge 💻
-<blockquote>
-  <p>
-    Data Structure, Algorithm
-    <br>
-    Using Java, Python
-    <br>
-    <em>
-      in <a href="https://www.acmicpc.net/user/npnppn" rel="nofollow">baekjoon</a> and <a href="https://programmers.co.kr/users/profile" rel="nofollow">Programmers</a>
-    </em>
-  </p>
-</blockquote>
-
+### 💻 BOJ
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=npnppn)](https://solved.ac/npnppn)
-
-### Contacts 📫
-
-* Email : nppn10@naver.com
-* BOJ : [npnppn](https://www.acmicpc.net/user/npnppn)
-* Programmers : [npnppn](https://programmers.co.kr/users/profile)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=npnppn&theme=cold)
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+### 📫 Contacts
+- <a href="mailto:nppn10@naver.com"> <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white"/> </a>
+- <a href="https://boj.kr/npnppn"> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=npnppn)](https://solved.ac/npnppn) </a>
+
 
 <!--
 
