@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HyungMin's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
 ![npnppn's github stats](https://github-readme-stats.vercel.app/api?username=npnppn&show_icons=true&theme=synthwave)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnppn" width = "25%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnppn" width = "28%">
 
 
 <h2>
@@ -30,7 +30,7 @@ Collaboration Tool : <img src="https://img.shields.io/badge/Github-181717?style=
 
 <h2>
   
-### <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> [My Portfolio](https://cheddar-dollar-d16.notion.site/497ac6c432c743848f33fdd58a0285ac)
+### <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> [Portfolio](https://cheddar-dollar-d16.notion.site/497ac6c432c743848f33fdd58a0285ac)
 
 </h2>
 
